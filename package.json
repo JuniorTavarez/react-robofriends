@@ -5,7 +5,10 @@
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1"
+    "react-scripts": "3.0.1",
+    "readable-stream": "^3.3.0",
+    "tachyons": "^4.11.1",
+    "typescript": "^3.4.5"
   },
   "scripts": {
     "start": "react-scripts start",
